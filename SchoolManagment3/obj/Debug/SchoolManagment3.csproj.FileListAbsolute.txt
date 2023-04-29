@@ -1,0 +1,217 @@
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.Shared.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\FlashControlV71.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.Design.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.Fonts.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\ShockwaveFlashObjects.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\stdole.dll
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.ResolveComReference.cache
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addFiliere.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_AddStudent.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Class.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Discount.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_FiliereManagment.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Login.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_OtherFees.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_PaieMensuelManagment.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYearManagment.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYear.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_studentManagment.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.MainForm.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.Properties.Resources.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.RPT.FRM_REPORT.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.GenerateResource.Cache
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.exe
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.pdb
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.exe.config
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.exe
+E:\VS Project\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.pdb
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.PaieMensuelGestion.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.PrompteForm.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_FeesStatistic.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_LatePaiment.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addNewUsers.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Priveleges.resources
+E:\VS Project\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csprojResolveAssemblyReference.cache
+C:\Users\pci5\Desktop\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.exe.config
+C:\Users\pci5\Desktop\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.ResolveComReference.cache
+C:\Users\pci5\Desktop\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.exe
+C:\Users\pci5\Desktop\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.pdb
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.exe.config
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.ResolveComReference.cache
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.exe
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.pdb
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.exe
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\SchoolManagment3.pdb
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\FlashControlV71.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.Design.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\bin\Debug\stdole.dll
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csprojResolveAssemblyReference.cache
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addFiliere.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addNewUsers.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_AddStudent.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Class.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Discount.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_FeesStatistic.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_FiliereManagment.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_LatePaiment.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Login.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_OtherFees.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_PaieMensuelManagment.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Priveleges.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYearManagment.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYear.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_studentManagment.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.MainForm.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.PaieMensuelGestion.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.PL.PrompteForm.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.Properties.Resources.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.RPT.FRM_REPORT.resources
+C:\Users\pci5\Desktop\Project C#\SchoolManagment3\SchoolManagment3\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.GenerateResource.Cache
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.exe.config
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.exe
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.pdb
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.Design.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\stdole.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.ResolveComReference.cache
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addFiliere.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Login.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.MainForm.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.Properties.Resources.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.RPT.FRM_REPORT.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.GenerateResource.cache
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.CoreCompileInputs.cache
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.CopyComplete
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.exe
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.pdb
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.engine.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.engine.api.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.pdb
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.xml
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csprojAssemblyReference.cache
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\NUnit3.TestAdapter.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.engine.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.engine.api.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.exe.config
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.exe
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\SchoolManagment3.pdb
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.Design.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\ShockwaveFlashObjects.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\stdole.dll
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.pdb
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\nunit.framework.xml
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csprojAssemblyReference.cache
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.ResolveComReference.cache
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_AddFiche.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addFiliere.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addNewUsers.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_AddSubject.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Class.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Department.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_FiliereManagment.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SubSheetManagement.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Login.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Unities.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_UnityManagment.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_Priveleges.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYearManagment.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_SchoolYear.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_subjectManagment.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.MainForm.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_ChargePartition.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.PrompteForm.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.Properties.Resources.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.RPT.FRM_REPORT.resources
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.GenerateResource.cache
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.CoreCompileInputs.cache
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.csproj.CopyComplete
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.exe
+D:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.pdb
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.exe.config
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Data.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Web.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\Google.Protobuf.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\Zstandard.Net.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\Renci.SshNet.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\System.Memory.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\System.Buffers.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Data.xml
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\bin\Debug\MySql.Web.xml
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Form_addMissions.resources
+C:\Users\gladi\source\repos\Smart-school-master\SchoolManagment3\obj\Debug\SchoolManagment3.PL.Equip.resources
